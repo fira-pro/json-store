@@ -7,7 +7,7 @@
     "name": "Sample Movie",
     "download_url": "https://www.sample-videos.com/video321/mp4/720/big_buck_bunny_720p_30mb.mp4",
     "thumbnail_url": "http://example.com/sample_movie_thumbnail.jpg",
-    "runtime": "120 minutes",
+    "runtime": "10 minutes",
     "is_new": true,
     "created_at": 1633072800000
   },
