@@ -18,6 +18,7 @@
     "file_type": "AUDIO",
     "media_type": "MUSIC",
     "name": "Sample Music",
+    "size": null,
     "download_url": "https://www.sample-videos.com/video321/mp4/720/big_buck_bunny_720p_30mb.mp4",
     "thumbnail_url": null,
     "runtime": "4 minutes",
@@ -33,6 +34,7 @@
     "size": "1 MB",
     "download_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_SX300.jpg",
     "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_SX300.jpg",
+    "runtime": null,
     "is_new": true,
     "created_at": 1633072800000
   }
