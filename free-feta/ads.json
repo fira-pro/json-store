@@ -5,7 +5,7 @@
     "show_on_startup": true,
     "is_html": false,
     "title": "My text ad",
-    "body": "Sample advertisement body",
+    "body": "Sample advertisement body \n new line?",
     "url": null,
     "duration": 3
   },
@@ -16,6 +16,16 @@
     "is_html": true,
     "title": "HTML Ad",
     "body": "<html>\n<body>\n<p>Visit <a href=\"https://t.me/fira_pro\">Example</a></p>\n<p>Email <a href=\"mailto:test@example.com\">test@example.com</a></p>\n</body>\n</html>",
+    "url": "https://example.com",
+    "duration": 5
+  },
+  {
+    "id": 3,
+    "is_one_time": false,
+    "show_on_startup": true,
+    "is_html": true,
+    "title": "HTML Ad with Image",
+    "body": "<html>\n<body>\n<img src=\"https://picsum.photos/300\" alt=\"Test Image\">\n<p>Visit <a href=\"https://youtube.com\">Yt</a></p>\n<p>Email <a href=\"https://x.com\">x.com</a></p>\n</body>\n</html>",
     "url": "https://example.com",
     "duration": 5
   }
