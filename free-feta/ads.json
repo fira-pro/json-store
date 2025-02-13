@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "is_one_time": false,
+    "show_on_startup": true,
+    "is_html": false,
+    "title": "My text ad",
+    "body": "Sample advertisement body",
+    "url": null,
+    "duration": 3
+  },
+  {
+    "id": 2,
+    "is_one_time": true,
+    "show_on_startup": true,
+    "is_html": true,
+    "title": "HTML Ad",
+    "body": "<html>\n<body>\n<p>Visit <a href=\"https://t.me/fira_pro\">Example</a></p>\n<p>Email <a href=\"mailto:test@example.com\">test@example.com</a></p>\n</body>\n</html>",
+    "url": "https://example.com",
+    "duration": 5
+  }
+]
