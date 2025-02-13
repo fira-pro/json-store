@@ -6,7 +6,7 @@
     "is_html": false,
     "title": "My text ad",
     "body": "Sample advertisement body \n new line?",
-    "url": null,
+    "url": "https://google.com",
     "duration": 3
   },
   {
