@@ -28,5 +28,35 @@
     "body": "<html>\n<body>\n<img src=\"https://picsum.photos/300\" alt=\"Test Image\">\n<p>Visit <a href=\"https://youtube.com\">Yt</a></p>\n<p>Email <a href=\"https://x.com\">x.com</a></p>\n</body>\n</html>",
     "url": "https://example.com",
     "duration": 5
+  },
+  {
+    "id": 4,
+    "is_one_time": true,
+    "show_on_startup": false,
+    "is_html": false,
+    "title": "Text Ad 2",
+    "body": "This is another sample text ad.",
+    "url": "https://example2.com",
+    "duration": 4
+  },
+  {
+    "id": 5,
+    "is_one_time": false,
+    "show_on_startup": false,
+    "is_html": true,
+    "title": "HTML Ad 2",
+    "body": "<html>\n<body>\n<p>Check out <a href=\"https://example3.com\">Example 3</a></p>\n<p>Contact us at <a href=\"mailto:contact@example3.com\">contact@example3.com</a></p>\n</body>\n</html>",
+    "url": "https://example3.com",
+    "duration": 6
+  },
+  {
+    "id": 6,
+    "is_one_time": true,
+    "show_on_startup": false,
+    "is_html": true,
+    "title": "HTML Ad with Video",
+    "body": "<html>\n<body>\n<video width=\"320\" height=\"240\" controls>\n  <source src=\"https://www.example.com/video.mp4\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n</video>\n<p>Visit <a href=\"https://example4.com\">Example 4</a></p>\n</body>\n</html>",
+    "url": "https://example4.com",
+    "duration": 7
   }
 ]
