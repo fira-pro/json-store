@@ -3,7 +3,7 @@
   "minimum_version": "1.0.0",
   "latest_version": "2.0.0",
   "version_description": "This is the latest version.",
-  "download_url": "https://github.com/bitbar/test-samples/raw/refs/heads/master/apps/android/bitbar-sample-app.apk",
+  "download_url": "https://github.com/payu-intrepos/Android-SDK-Sample-App/raw/refs/heads/main/SampleApp.apk",
   "alternative_url": "https://t.me/fira_pro",
   "is_service_ok": true,
   "error_message": null
