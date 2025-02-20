@@ -5,6 +5,7 @@
   "version_description": "- Fix player sugging blood 😊",
   "download_url": "https://github.com/payu-intrepos/Android-SDK-Sample-App/raw/refs/heads/main/SampleApp.apk",
   "alternative_url": "https://t.me/fira_pro",
+  "analytics_url": "https://analytics.free-feta.workers.dev/api/analytics/device",
   "is_service_ok": true,
   "error_message": null
 }
