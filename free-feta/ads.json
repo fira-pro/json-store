@@ -4,8 +4,8 @@
     "is_one_time": true,
     "show_on_startup": true,
     "is_html": false,
-    "title": "My text ad",
-    "body": "Sample advertisement body \n new line?",
+    "title": "Test text ad",
+    "body": "Sample advertisement body \n Ads will go here😊",
     "url": "https://google.com",
     "duration": 3
   },
