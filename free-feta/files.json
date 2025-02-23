@@ -13,14 +13,14 @@
     "created_at": 1633072800000
   },
   {
-    "id": 2,
+    "id": 22,
     "is_playable": false,
     "file_type": "DOCUMENT",
     "media_type": null,
     "name": "Sample pdf document",
     "size": null,
     "download_url": "https://telebirrchat.ethiomobilemoney.et:21006/sfs/ufile?digest=fid72fb7fa39c31d7b37ea61a1f09184eb4&filename=%E1%8A%A8%E1%8B%95%E1%88%88%E1%89%B3%E1%89%B5+%E1%8C%8D%E1%88%9B%E1%88%BD+%E1%89%80%E1%8A%95.pdf",
-    "thumbnail_url": null,
+    "thumbnail_url": "https://telebirrchat.ethiomobilemoney.et:21006/sfs/ufile?digest=fid1920394ddd9221d556634ade9008ba6c&filename=water_and_sewerage.jpg",
     "runtime": null,
     "is_new": true,
     "created_at": 1633072800000
