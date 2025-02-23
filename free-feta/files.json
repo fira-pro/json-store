@@ -63,18 +63,5 @@
     "runtime": null,
     "is_new": true,
     "created_at": 1633072800000
-  },
-  {
-    "id": 6,
-    "is_playable": true,
-    "file_type": "VIDEO",
-    "media_type": "MOVIE",
-    "name": "avengers clip",
-    "size": null,
-    "download_url": "https://clip.cafe/videos/because-of-him.mp4",
-    "thumbnail_url": null,
-    "runtime": null,
-    "is_new": true,
-    "created_at": 1633072800000
   }
 ]
