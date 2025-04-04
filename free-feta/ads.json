@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "is_one_time": false,
+    "is_one_time": true,
     "show_on_startup": null,
     "is_html": true,
     "title": "Join our TG channel",
